@@ -1,8 +1,8 @@
 /**
  * Liskov's Substitution
  * Conditions:
- 1 - preconditions cannot be enforced in a subclass.
- 2 - postconditions cannot be weakened in a subclass.
+ 1 - preconditions cannot be enforced in subtype.
+ 2 - postconditions cannot be weakened in subtype.
  */
 
 interface User  {
